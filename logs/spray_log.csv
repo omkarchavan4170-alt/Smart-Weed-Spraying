@@ -1,0 +1,5 @@
+event_id,scenario_id,target_id,activation_time_s,confidence,spray_duration_s,hit,late
+1,1,1,0.58,0.9,0.4,True,False
+2,2,2,0.58,0.9,0.4,True,False
+3,3,3,0.58,0.9,0.4,True,False
+4,4,4,0.58,0.9,0.4,True,False

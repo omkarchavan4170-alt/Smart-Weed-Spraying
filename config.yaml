@@ -1,0 +1,13 @@
+seed: 42
+confidence_threshold: 0.70
+camera_nozzle_distance_m: 1.5
+vehicle_speed_mps: 2.0
+frame_rate_fps: 10
+inference_latency_ms: 80
+processing_latency_ms: 40
+control_latency_ms: 30
+nozzle_latency_ms: 20
+spray_duration_s: 0.4
+nozzle_width_m: 0.25
+model_path: models/weed_detector.pt
+delay_model_path: models/delay_regressor.pkl

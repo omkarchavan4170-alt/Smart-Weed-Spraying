@@ -1,0 +1,9 @@
+
+path: C:/Users/oo163/Swc/data/raw/weed-crop-aerial
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: crop
+  1: weed

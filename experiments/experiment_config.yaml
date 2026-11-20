@@ -1,0 +1,4 @@
+speeds_mps: [0.5, 1.0, 2.0, 3.0]
+camera_nozzle_distances_m: [0.5, 1.0, 1.5]
+processing_latencies_ms: [20, 80, 150, 250, 350]
+scenarios_per_setting: 30

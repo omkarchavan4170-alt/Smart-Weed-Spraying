@@ -1,0 +1,9 @@
+target_id,confidence,scheduled_start_ms,scheduled_finish_ms,deadline_ms,spray_duration_s,spray_scheduled,deadline_missed,spray_hit,note
+Weed_1,0.719,0.0,242.66,750.0,0.4,True,False,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_2,0.659,242.66,485.32,750.0,0.4,True,False,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_3,0.631,485.32,727.98,750.0,0.4,True,False,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_4,0.422,727.98,970.64,750.0,0.4,False,True,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_5,0.41,970.64,1213.3,750.0,0.4,False,True,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_6,0.403,1213.3,1455.96,750.0,0.4,False,True,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_7,0.363,1455.96,1698.62,750.0,0.4,False,True,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
+Weed_8,0.345,1698.62,1941.28,750.0,0.4,False,True,False,Timing-only simulation; physical spray intersection and target ground position are not calibrated.
